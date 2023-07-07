@@ -5,6 +5,16 @@
 ***how does this even work***
 **this should be _easy_ no?**
 <sub>smol</sub>
-> quoted
+
+
 `get status`
-> 
+SOME BASIC COMMANDS ARE:
+``
+get status
+get add
+``
+
+-mohamed;
+*magdy;
++mohamed;
+
